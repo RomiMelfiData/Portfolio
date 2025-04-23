@@ -7,3 +7,14 @@ Estoy buscando aplicar mis capacidades para resolver problemas complejos y mi ex
 Este es un repositorio para mostrar habilidades, compartir proyectos y realizar un seguimiento de mi progreso en temas relacionados con análisis de datos / ciencia de datos.
 
   [Curriculum Vitae](CV_Romina_Melfi_Data.pdf)
+
+## Proyectos
+
+### Análisis de clientes del Banco X para encontrar el mejor segmento de contratación de prestamos
+Limpieza de datos y Análisis exploratorio de los datos. Un banco contrata a una empresa de marketing para que realice una campaña de venta de uno de sus productos. La empresa de marketing debe responder a la pregunta. ¿Qué perfil tienen que tener los clientes con mayor potencial de conversión?
+Limpieza de datos: (Banco_Clean.ipynb)
+Análisis de datos: (Banco_Análisis_Exploratorio.ipynb)
+
+### Presentación del análisis de la producción y precios de vinos mundiales
+A partir de un data set de vinos, tipos, cuantidades, precios, origen, viñedos y puntuación de los catadores, se realizo una presentación en la cual se puede visualizar en storytelling la producción, el puntaje y los precios. Se utilización segmentadores de precios, puntuaciones, año de origen del vino, ciudades y variadad del vinos.
+Dashboard en Power BI: (DashboardWine.pdf)
