@@ -18,9 +18,17 @@ Limpieza de datos: [Banco_Clean.ipynb](https://github.com/RomiMelfiData/Proyecto
 
 Análisis de datos: [Banco_Análisis_Exploratorio.ipynb](https://github.com/RomiMelfiData/Proyecto_EDA_cliente_banco/blob/main/Banco_An%C3%A1lisis_Exploratorio.ipynb)
 
+Skills:data cleaning, data analysis, correlation matrices, hypothesis testing, data visualization.
+
+Technology: Python, Pandas, Numpy, Seaborn, Matplotlib, SciPy.
+
 ### Presentación del análisis de la producción y precios de vinos mundiales
 
 A partir de un data set de vinos, tipos, cuantidades, precios, origen, viñedos y puntuación de los catadores, se realizo una presentación en la cual se puede visualizar en storytelling la producción, el puntaje y los precios. Se utilización segmentadores de precios, puntuaciones, año de origen del vino, ciudades y variadad del vinos.
 
 Dashboard en Power BI: [DashboardWine.pdf](https://github.com/RomiMelfiData/Proyecto_PowerBI_Wine/blob/main/DashboardWine.pdf)
+
+Skills: data cleaning, data analysis, data visualization.
+
+Technology: Power BI.
 
