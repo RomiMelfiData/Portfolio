@@ -22,5 +22,5 @@ Análisis de datos: [Banco_Análisis_Exploratorio.ipynb](Banco_Análisis_Explora
 
 A partir de un data set de vinos, tipos, cuantidades, precios, origen, viñedos y puntuación de los catadores, se realizo una presentación en la cual se puede visualizar en storytelling la producción, el puntaje y los precios. Se utilización segmentadores de precios, puntuaciones, año de origen del vino, ciudades y variadad del vinos.
 
-Dashboard en Power BI: [DashboardWine.pdf](DashboardWine.pdf)
+Dashboard en Power BI: [DashboardWine.pdf](https://github.com/RomiMelfiData/Proyecto_PowerBI_Wine/blob/main/DashboardWine.pdf)
 
