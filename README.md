@@ -18,7 +18,7 @@ Limpieza de datos y Análisis exploratorio de los datos. Un banco contrata a una
 
 **Análisis de datos**: [Banco_Análisis_Exploratorio.ipynb](https://github.com/RomiMelfiData/Proyecto_EDA_cliente_banco/blob/main/Banco_An%C3%A1lisis_Exploratorio.ipynb)
 
-**Skills**:data cleaning, data analysis, correlation matrices, hypothesis testing, data visualization.
+**Skills**: data cleaning, data analysis, correlation matrices, hypothesis testing, data visualization.
 
 **Technology**: Python, Pandas, Numpy, Seaborn, Matplotlib, SciPy.
 
