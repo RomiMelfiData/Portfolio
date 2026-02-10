@@ -8,7 +8,7 @@ Este repositorio reúne proyectos para mostrar habilidades, compartir aprendizaj
 ---
 
 ## CV
-📄 **CV (PDF):** [CV_Romina_Melfi_Data.pdf](CV/CV_Romina_Melfi_Data.pdf)
+📄 **CV (PDF):** [CV_Romina_Melfi_Data.pdf](CV_Romina_Melfi_Data.pdf) 
 
 ---
 
