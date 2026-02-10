@@ -8,7 +8,7 @@ Este repositorio reúne proyectos para mostrar habilidades, compartir aprendizaj
 ---
 
 ## CV
-📄 **CV (PDF):** [CV_Romina_Melfi_Data.pdf](CV_Romina_Melfi_Data.pdf) 
+📄 **CV (PDF):** [CV_Romina_Melfi_Data.pdf](Curriculum Vitae) 
 
 ---
 
@@ -44,7 +44,7 @@ Incluye modelado en **Power BI**, transformaciones en **Power Query** y medidas 
 Limpieza de datos y análisis exploratorio para responder:  
 **¿Qué perfil tienen los clientes con mayor potencial de conversión** en una campaña de marketing bancaria?
 
-- 🧼 Limpieza de datos: `Banco_Clean.ipynb`
+- 🧼 Limpieza de datos: `Banco_Clean.ipynb`  Banco_Clean.ipynb
 - 🔎 Análisis exploratorio: `Banco_Análisis_Exploratorio.ipynb`
 
 **Skills:** data cleaning, EDA, correlación, tests de hipótesis, visualización.  
