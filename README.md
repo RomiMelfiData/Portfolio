@@ -1,34 +1,74 @@
-# Portfolio
-Hola! Mi nombre es Romina! Tengo formación en Matemáticas y Educación, actualmente estoy estudiando la Licenciatura en Análisis y Gestión de Datos. 
-Me especialicé en herramientas tales como, Python, SQL, Excel y Power BI, entre otras, para el análisis, visualización y predicción de datos. 
-He desarrollado una sólida formación en ciencias y una pasión por los datos para descubrir información valiosa. Me entusiasma aportar mis habilidades técnicas y analíticas al campo de la ciencia de datos como especialista en datos. Poseo las fortalezas de autogestión y disciplina que me permiten trabajar de manera eficiente, tanto en equipo, como de forma independiente.
-Estoy buscando aplicar mis capacidades para resolver problemas complejos y mi experiencia en la gestión de proyectos, con el objetivo de influir positivamente en la resolución de problemas, optimizar procesos, mejorar la toma de decisiones y potenciar ganancias, dentro del universo de ciencia y análisis de datos.
+# Portfolio | Romina Melfi — Data Analyst / BI
 
-Este es un repositorio para mostrar habilidades, compartir proyectos y realizar un seguimiento de mi progreso en temas relacionados con análisis de datos / ciencia de datos.
+Hola 👋 Soy **Romina Melfi**. Tengo formación en **Matemáticas y Educación** y actualmente estudio la **Licenciatura en Análisis y Gestión de Datos**.  
+Me especializo en **análisis y visualización** con foco en **Power BI, Excel, Python y SQL**, combinando pensamiento analítico con comunicación clara para generar insights accionables.
 
-  [Curriculum Vitae](CV_Romina_Melfi_Data.pdf)
+Este repositorio reúne proyectos para mostrar habilidades, compartir aprendizajes y documentar mi progreso en **Data Analytics / BI**.
 
-## Proyectos
+---
 
-### Análisis de clientes del Banco X para encontrar el mejor segmento de contratación de prestamos
+## CV
+📄 **CV (PDF):** [CV_Romina_Melfi_Data.pdf](CV/CV_Romina_Melfi_Data.pdf)
 
-Limpieza de datos y Análisis exploratorio de los datos. Un banco contrata a una empresa de marketing para que realice una campaña de venta de uno de sus productos. La empresa de marketing debe responder a la pregunta. ¿Qué perfil tienen que tener los clientes con mayor potencial de conversión?
+---
 
-**Limpieza de datos**: [Banco_Clean.ipynb](https://github.com/RomiMelfiData/Proyecto_EDA_cliente_banco/blob/main/Banco_Clean.ipynb)
+## Skills (resumen)
+- **BI & Visualización:** Power BI (Power Query, DAX, modelado estrella), Looker Studio
+- **Análisis de datos:** Python (Pandas, NumPy, Matplotlib), estadística aplicada
+- **SQL:** consultas, joins, agregaciones, modelado lógico
+- **Excel:** dashboards, tablas dinámicas, funciones avanzadas
+- **Buenas prácticas:** documentación, control de calidad de datos, storytelling
 
-**Análisis de datos**: [Banco_Análisis_Exploratorio.ipynb](https://github.com/RomiMelfiData/Proyecto_EDA_cliente_banco/blob/main/Banco_An%C3%A1lisis_Exploratorio.ipynb)
+---
 
-**Skills**: data cleaning, data analysis, correlation matrices, hypothesis testing, data visualization.
+## Proyectos destacados
 
-**Technology**: Python, Pandas, Numpy, Seaborn, Matplotlib, SciPy.
+### 1) E-commerce Growth & Retention (Power BI) | Olist Dataset  ✅ NUEVO
+Dashboard de portfolio para analizar un e-commerce de punta a punta: **crecimiento (GMV/Orders/AOV)**, **mix de categorías**, **retención por cohortes** y **segmentación de clientes (RFM)**.  
+Incluye modelado en **esquema estrella**, transformaciones en **Power Query** y medidas **DAX**.
 
-### Presentación del análisis de la producción y precios de vinos mundiales
+- 🔗 **Repo del proyecto:** *(pegar aquí el link del repo del proyecto Olist)*  
+  > Si lo dejaste como repo separado: pegá el link directo al repo.  
+  > Si lo dejaste dentro de este repo: pegá el link a la carpeta / submódulo correspondiente.
+- 📊 **Reporte publicado (Power BI Service):** *(pegar aquí el link del reporte publicado)*  
+- 🎯 Preguntas clave:
+  - ¿Cómo evolucionan Orders, GMV y AOV mes a mes?
+  - ¿Qué cohortes retienen mejor/peor y cómo cambia la recompra?
+  - ¿Cómo varía el mix Top categorías en el tiempo?
+  - ¿Qué segmentos (recency/value) priorizar para win-back vs fidelización?
 
-A partir de un data set de vinos, tipos, cuantidades, precios, origen, viñedos y puntuación de los catadores, se realizo una presentación en la cual se puede visualizar en storytelling la producción, el puntaje y los precios. Se utilización segmentadores de precios, puntuaciones, año de origen del vino, ciudades y variadad del vinos.
+**Tech:** Power BI (DAX, Power Query), modelado estrella, cohortes, RFM.
 
-**Dashboard**: [DashboardWine.pdf](https://github.com/RomiMelfiData/Proyecto_PowerBI_Wine/blob/main/DashboardWine.pdf)
+---
 
-**Skills**: data cleaning, data analysis, data visualization.
+### 2) Análisis de clientes del Banco X — Segmentación para préstamos (Python)
+Limpieza de datos y análisis exploratorio para responder:  
+**¿Qué perfil tienen los clientes con mayor potencial de conversión** en una campaña de marketing bancaria?
 
-**Technology**: Power BI.
+- 🧼 Limpieza de datos: `Banco_Clean.ipynb`
+- 🔎 Análisis exploratorio: `Banco_Análisis_Exploratorio.ipynb`
 
+**Skills:** data cleaning, EDA, correlación, tests de hipótesis, visualización.  
+**Tech:** Python, Pandas, NumPy, Matplotlib, SciPy.
+
+---
+
+### 3) Storytelling de vinos — Producción y precios (Power BI)
+Dashboard de storytelling sobre producción, puntajes y precios de vinos. Incluye segmentación por **precio**, **puntaje**, **año**, **origen** y **variedad**.
+
+- 📄 Dashboard (PDF): `DashboardWine.pdf`
+
+**Skills:** data analysis, visualización, storytelling.  
+**Tech:** Power BI.
+
+---
+
+## Contacto
+- 💼 LinkedIn: *(pegar aquí tu link de LinkedIn)*
+- ✉️ Email: *(pegar aquí tu email de contacto profesional)*
+
+---
+
+## Nota
+Los datasets grandes/archivos pesados (por ejemplo `.pbix` o datos crudos) pueden estar excluidos por buenas prácticas.  
+Cuando aplique, se comparte un **link al reporte publicado** y documentación para reproducir el proyecto.
