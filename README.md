@@ -29,7 +29,7 @@ Incluye modelado en **Power BI**, transformaciones en **Power Query** y medidas 
 
 - 🔗 **Repo del proyecto: [Ecommerce growth retention](https://github.com/RomiMelfiData/powerbi-ecommerce-growth-retention)
 
-- 📊 **Reporte publicado (Power BI Service):[Dashboard en Power BI](https://app.powerbi.com/links/Tr_DaH2iPF?ctid=811b5463-d762-4cb5-9e0c-4f3f84c975cb&pbi_source=linkShare&bookmarkGuid=000f72d7-eb1c-4cd8-b9d8-3fd3d5a11b63)
+- 📊 **Reporte publicado (Power BI Service): [Dashboard en Power BI](https://app.powerbi.com/links/Tr_DaH2iPF?ctid=811b5463-d762-4cb5-9e0c-4f3f84c975cb&pbi_source=linkShare&bookmarkGuid=000f72d7-eb1c-4cd8-b9d8-3fd3d5a11b63)
 - 🎯 Preguntas clave:
   - ¿Cómo evolucionan Orders, GMV y AOV mes a mes?
   - ¿Qué cohortes retienen mejor/peor y cómo cambia la recompra?
