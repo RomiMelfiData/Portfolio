@@ -8,7 +8,7 @@ Este repositorio reúne proyectos para mostrar habilidades, compartir aprendizaj
 ---
 
 ## CV
-📄 **CV (PDF):** [Curriculum_Vitae](CV_Romina_Melfi_Data.pdf) 
+📄 **CV (PDF):** [Curriculum Vitae](CV_Romina_Melfi_Data.pdf) 
 
 ---
 
@@ -29,7 +29,7 @@ Incluye modelado en **Power BI**, transformaciones en **Power Query** y medidas 
 
 - 🔗 **Repo del proyecto:** *https://github.com/RomiMelfiData/powerbi-ecommerce-growth-retention*
 
-- 📊 **Reporte publicado (Power BI Service):** *(pegar aquí el link del reporte publicado)*  
+- 📊 **Reporte publicado (Power BI Service):** *https://app.powerbi.com/links/Tr_DaH2iPF?ctid=811b5463-d762-4cb5-9e0c-4f3f84c975cb&pbi_source=linkShare&bookmarkGuid=000f72d7-eb1c-4cd8-b9d8-3fd3d5a11b63*  
 - 🎯 Preguntas clave:
   - ¿Cómo evolucionan Orders, GMV y AOV mes a mes?
   - ¿Qué cohortes retienen mejor/peor y cómo cambia la recompra?
@@ -44,8 +44,8 @@ Incluye modelado en **Power BI**, transformaciones en **Power Query** y medidas 
 Limpieza de datos y análisis exploratorio para responder:  
 **¿Qué perfil tienen los clientes con mayor potencial de conversión** en una campaña de marketing bancaria?
 
-- 🧼 Limpieza de datos: `Banco_Clean.ipynb`  Banco_Clean.ipynb
-- 🔎 Análisis exploratorio: `Banco_Análisis_Exploratorio.ipynb`
+- 🧼 Limpieza de datos:** [Clean](Banco_Clean.ipynb) 
+- 🔎 Análisis exploratorio:** [Análisis](Banco_Análisis_Exploratorio.ipynb) 
 
 **Skills:** data cleaning, EDA, correlación, tests de hipótesis, visualización.  
 **Tech:** Python, Pandas, NumPy, Matplotlib, SciPy.
@@ -55,7 +55,7 @@ Limpieza de datos y análisis exploratorio para responder:
 ### 3) Storytelling de vinos — Producción y precios (Power BI)
 Dashboard de storytelling sobre producción, puntajes y precios de vinos. Incluye segmentación por **precio**, **puntaje**, **año**, **origen** y **variedad**.
 
-- 📄 Dashboard (PDF): `DashboardWine.pdf`
+- 📄 Dashboard (PDF):** [Dashboard](DashboardWine.pdf) 
 
 **Skills:** data analysis, visualización, storytelling.  
 **Tech:** Power BI.
@@ -63,8 +63,8 @@ Dashboard de storytelling sobre producción, puntajes y precios de vinos. Incluy
 ---
 
 ## Contacto
-- 💼 LinkedIn: *(pegar aquí tu link de LinkedIn)*
-- ✉️ Email: *(pegar aquí tu email de contacto profesional)*
+- 💼 LinkedIn: *[(Linkedin)](https://www.linkedin.com/in/melfi-romina/)*
+- ✉️ Email: *rominamelfi@gmail.com*
 
 ---
 
