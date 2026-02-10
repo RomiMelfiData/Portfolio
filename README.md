@@ -23,7 +23,7 @@ Este repositorio reúne proyectos para mostrar habilidades, compartir aprendizaj
 
 ## Proyectos destacados
 
-### 1) E-commerce Growth & Retention (Power BI) | Olist Dataset  ✅ NUEVO
+### 1) E-commerce Growth & Retention (Power BI) | Olist Dataset
 Dashboard de portfolio para analizar un e-commerce de punta a punta: **crecimiento (GMV/Orders/AOV)**, **mix de categorías**, **retención por cohortes** y **segmentación de clientes (RFM)**.  
 Incluye modelado en **esquema estrella**, transformaciones en **Power Query** y medidas **DAX**.
 
