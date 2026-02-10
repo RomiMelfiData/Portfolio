@@ -63,8 +63,8 @@ Dashboard de storytelling sobre producción, puntajes y precios de vinos. Incluy
 ---
 
 ## Contacto
-- 💼 LinkedIn: *[Linkedin](https://www.linkedin.com/in/melfi-romina/)*
-- ✉️ Email: *rominamelfi@gmail.com*
+- 💼 *[Linkedin](https://www.linkedin.com/in/melfi-romina/)*
+- ✉️ *rominamelfi@gmail.com*
 
 ---
 
