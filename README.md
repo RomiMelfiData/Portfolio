@@ -27,9 +27,8 @@ Este repositorio reúne proyectos para mostrar habilidades, compartir aprendizaj
 Dashboard de portfolio para analizar un e-commerce de punta a punta: **crecimiento (GMV/Orders/AOV)**, **mix de categorías**, **retención por cohortes** y **segmentación de clientes (RFM)**.  
 Incluye modelado en **Power BI**, transformaciones en **Power Query** y medidas **DAX**.
 
-- 🔗 **Repo del proyecto:** *(pegar aquí el link del repo del proyecto Olist)*  
-  > Si lo dejaste como repo separado: pegá el link directo al repo.  
-  > Si lo dejaste dentro de este repo: pegá el link a la carpeta / submódulo correspondiente.
+- 🔗 **Repo del proyecto:** *https://github.com/RomiMelfiData/powerbi-ecommerce-growth-retention*
+
 - 📊 **Reporte publicado (Power BI Service):** *(pegar aquí el link del reporte publicado)*  
 - 🎯 Preguntas clave:
   - ¿Cómo evolucionan Orders, GMV y AOV mes a mes?
