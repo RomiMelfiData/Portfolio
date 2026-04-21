@@ -1,11 +1,7 @@
-# Portfolio | Romina Melfi — Data Analyst / BI
+# Portfolio | Romina Melfi — Data Analyst
 
-Hola 👋 Soy **Romina Melfi**. Tengo formación en **Matemáticas y Educación** y actualmente estudio la **Licenciatura en Análisis y Gestión de Datos**.  
-Me especializo en **análisis y visualización** con foco en **Power BI, Excel, Python y SQL**, combinando pensamiento analítico con comunicación clara para generar insights accionables.
-
-Este repositorio reúne proyectos para mostrar habilidades, compartir aprendizajes y documentar mi progreso en **Data Analytics / BI**.
-
----
+Convierto datos en decisiones que impactan resultados. Con base en matemática, estadística y experiencia en el sector financiero, transformo volúmenes complejos de datos en información clara y accionable para equipos y líderes de negocio.
+Este repositorio reúne proyectos de análisis exploratorio, modelos predictivos y Business Intelligence desarrollados con Python, SQL, Power BI y Excel.
 
 ## CV
 📄 **CV (PDF):** [Curriculum Vitae](CV_Romina_Melfi_Data.pdf) 
