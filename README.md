@@ -8,12 +8,13 @@ Este repositorio reúne proyectos de análisis exploratorio, modelos predictivos
 
 ---
 
-## Skills (resumen)
-- **BI & Visualización:** Power BI (Power Query, DAX, modelado estrella), Looker Studio
-- **Análisis de datos:** Python (Pandas, NumPy, Matplotlib), estadística aplicada
-- **SQL:** consultas, joins, agregaciones, modelado lógico
-- **Excel:** dashboards, tablas dinámicas, funciones avanzadas
-- **Buenas prácticas:** documentación, control de calidad de datos, storytelling
+## Habilidades técnicas
+
+- **Análisis y modelado:** Python (Pandas, NumPy, Scikit-learn, Statsmodels) · estadística aplicada · modelos predictivos
+- **Business Intelligence:** Power BI (Power Query, DAX, modelado estrella) · Looker Studio
+- **Bases de datos:** SQL (consultas, joins, agregaciones, modelado lógico)
+- **Herramientas:** Excel avanzado · Git · GitHub · Jupyter · VS Code
+- **Buenas prácticas:** documentación, control de calidad de datos, reproducibilidad
 
 ---
 
