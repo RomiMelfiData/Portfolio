@@ -4,7 +4,7 @@ Convierto datos en decisiones que impactan resultados. Con base en matemática, 
 Este repositorio reúne proyectos de análisis exploratorio, modelos predictivos y Business Intelligence desarrollados con Python, SQL, Power BI y Excel.
 
 ## CV
-📄 **CV (PDF):** [Curriculum Vitae](CV_Romina_Melfi_Data.pdf) 
+📄 **CV (PDF):** [Curriculum Vitae](CV_Romina_Melfi_DataAnalyst.pdf) 
 
 ---
 
